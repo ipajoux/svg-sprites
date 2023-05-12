@@ -1,4 +1,5 @@
 # SVG Sprites
+<img src="https://github.com/ipajoux/svg-sprites/blob/main/ScreenShot.png?raw=true" width="100%">
 
 ```css
 .icon {
